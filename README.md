@@ -66,6 +66,28 @@ Week 3 provided practical exposure to password hashing and password security ass
 
 Working with hash calculators and John the Ripper helped strengthen my understanding of how password security can be evaluated and why secure password storage is essential.
 
+
+ ![hash calculator](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/Firefox%2020_11_2026%2008_04_53.png?raw=true)
+
+
+
+
+![password cracker](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/Firefox%2020_11_2026%2008_05_36.png?raw=true)
+
+
+
+
+![](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/kali-linux-2025.4-virtualbox-amd64%20(Snapshot%202)%20%5BRunning%5D%20-%20Oracle%20VirtualBox%2019_11_2026%2013_15_22.png?raw=true)
+
+
+
+
+
+![](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/kali-linux-2025.4-virtualbox-amd64%20(Snapshot%202)%20%5BRunning%5D%20-%20Oracle%20VirtualBox%2019_11_2026%2014_27_37.png?raw=true)
+
+
+
+
 👤 Author
 **Nnaemeka Janet**\
 Cybersecurity internship B084B
@@ -76,16 +98,3 @@ https://www.linkedin.com/in/janet-nnaemeka-164a521b3?utm_source=share_via&utm_co
 Organisation: NetworkWalks
 
 
-
- ![hash calculator](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/Firefox%2020_11_2026%2008_04_53.png?raw=true)
-
-
-![password cracker](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/Firefox%2020_11_2026%2008_05_36.png?raw=true)
-
-
-
-![](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/kali-linux-2025.4-virtualbox-amd64%20(Snapshot%202)%20%5BRunning%5D%20-%20Oracle%20VirtualBox%2019_11_2026%2013_15_22.png?raw=true)
-
-
-
-![hash calculator](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/Firefox%2020_11_2026%2008_04_53.png?raw=true)
