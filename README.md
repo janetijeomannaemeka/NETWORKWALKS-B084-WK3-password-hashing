@@ -88,6 +88,7 @@ Working with hash calculators and John the Ripper helped strengthen my understan
 
 [](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/My%20Locked%20PDF3-1.pdf%20-%20WPS%20Office%2020_11_2026%2008_48_59.png?raw=true)
 
+
 👤 Author
 **Nnaemeka Janet**\
 Cybersecurity internship B084B
