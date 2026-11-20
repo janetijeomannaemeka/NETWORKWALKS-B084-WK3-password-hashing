@@ -86,7 +86,8 @@ Working with hash calculators and John the Ripper helped strengthen my understan
 ![](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/kali-linux-2025.4-virtualbox-amd64%20(Snapshot%202)%20%5BRunning%5D%20-%20Oracle%20VirtualBox%2019_11_2026%2014_27_37.png?raw=true)
 
 
-[](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/My%20Locked%20PDF3-1.pdf%20-%20WPS%20Office%2020_11_2026%2008_48_59.png?raw=true)
+![](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/My%20Locked%20PDF3-1.pdf%20-%20WPS%20Office%2020_11_2026%2008_48_59.png?raw=true)
+
 
 
 👤 Author
