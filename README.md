@@ -71,3 +71,7 @@ Author: Janet Nnaemeka
 Programme: Cybersecurity Internship
 
 Organisation: NetworkWalks
+
+
+
+whatweb <img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/1c7a4d4f-e5e0-4574-8737-b11173e3e844" />
