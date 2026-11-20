@@ -66,9 +66,12 @@ Week 3 provided practical exposure to password hashing and password security ass
 
 Working with hash calculators and John the Ripper helped strengthen my understanding of how password security can be evaluated and why secure password storage is essential.
 
-Author: Janet Nnaemeka
+👤 Author
+**Nnaemeka Janet**\
+Cybersecurity internship B084B
+LinkedIn: [https://www.linkedin.com/in/janet-nnaemeka-164a521b3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BHgwUBf4MRZOkY9lcbEwcKw%3D%3D
 
-Programme: Cybersecurity Internship
+https://www.linkedin.com/in/janet-nnaemeka-164a521b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 Organisation: NetworkWalks
 
