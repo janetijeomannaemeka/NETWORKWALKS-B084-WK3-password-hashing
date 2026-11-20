@@ -77,4 +77,15 @@ Organisation: NetworkWalks
 
 
 
-hash calculator ![Lab 6 Result](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-SOC-PROJECT--WIRESHARK/blob/main/Lab%206%20Result%20-%20Janet%20Nnaemeka.png?raw=true)
+ ![hash calculator](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/Firefox%2020_11_2026%2008_04_53.png?raw=true)
+
+
+![hash calculator](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/Firefox%2020_11_2026%2008_04_53.png?raw=true)
+
+
+
+![hash calculator](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/Firefox%2020_11_2026%2008_04_53.png?raw=true)
+
+
+
+![hash calculator](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/Firefox%2020_11_2026%2008_04_53.png?raw=true)
