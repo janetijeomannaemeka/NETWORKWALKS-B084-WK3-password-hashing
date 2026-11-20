@@ -80,7 +80,7 @@ Organisation: NetworkWalks
  ![hash calculator](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/Firefox%2020_11_2026%2008_04_53.png?raw=true)
 
 
-![hash calculator](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/Firefox%2020_11_2026%2008_04_53.png?raw=true)
+![password cracker](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/Firefox%2020_11_2026%2008_05_36.png?raw=true)
 
 
 
