@@ -84,7 +84,7 @@ Organisation: NetworkWalks
 
 
 
-![hash calculator](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/Firefox%2020_11_2026%2008_04_53.png?raw=true)
+![](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK3-password-hashing/blob/main/kali-linux-2025.4-virtualbox-amd64%20(Snapshot%202)%20%5BRunning%5D%20-%20Oracle%20VirtualBox%2019_11_2026%2013_15_22.png?raw=true)
 
 
 
